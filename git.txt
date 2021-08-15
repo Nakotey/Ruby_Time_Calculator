@@ -1,0 +1,5 @@
+1.  git merge edits
+4.  git add README.md
+6.  git add examples.md
+6.  git commit -m "Resolve meger conflict"
+7.  git branch -D edits
